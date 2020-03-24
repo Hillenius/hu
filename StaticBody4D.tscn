@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://GodotIntro-Assets/Sprites/water.png" type="Texture" id=1]
+
+[node name="StaticBody2D" type="StaticBody2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 16.3245, -2.72075 )
+scale = Vector2( 1, 1.42444 )
+texture = ExtResource( 1 )
